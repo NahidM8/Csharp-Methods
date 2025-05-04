@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Nahid\\Desktop\\Pb305\\C# Methods Default Params\\C# Methods Default Params\\C# Methods Default Params.csproj",
+      "projectUniqueName": "C:\\Users\\Nahid\\Desktop\\Pb305\\Task4\\C# Methods Default Params\\C# Methods Default Params\\C# Methods Default Params.csproj",
       "projectName": "C# Methods Default Params",
-      "projectPath": "C:\\Users\\Nahid\\Desktop\\Pb305\\C# Methods Default Params\\C# Methods Default Params\\C# Methods Default Params.csproj",
+      "projectPath": "C:\\Users\\Nahid\\Desktop\\Pb305\\Task4\\C# Methods Default Params\\C# Methods Default Params\\C# Methods Default Params.csproj",
       "packagesPath": "C:\\Users\\Nahid\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Nahid\\Desktop\\Pb305\\C# Methods Default Params\\C# Methods Default Params\\obj\\",
+      "outputPath": "C:\\Users\\Nahid\\Desktop\\Pb305\\Task4\\C# Methods Default Params\\C# Methods Default Params\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Nahid\\AppData\\Roaming\\NuGet\\NuGet.Config",
